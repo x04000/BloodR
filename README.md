@@ -1,6 +1,7 @@
 # BloodR
 A simple hub/recopilation of Roblox Lua Hack Scripts
-| This is my first script in Lua, don't expect too much
+# Key
+The key is: 12shadows
 # How to use
 Just paste the script in your favorite injector and replace the number of "bloodlib(0)" by a valid number of hack and execute it.
 # This script is only for educational purposes
