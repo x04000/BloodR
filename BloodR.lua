@@ -6,7 +6,7 @@ local Window = Rayfield:CreateWindow({
    ConfigurationSaving = {
       Enabled = true,
       FolderName = "BloodR", -- Create a custom folder for your hub/game
-      FileName = "BloodR"
+      FileName = "BloodRKey"
    },
    KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
