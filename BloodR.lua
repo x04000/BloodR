@@ -8,7 +8,7 @@ local Window = Rayfield:CreateWindow({
       FolderName = nil, -- Create a custom folder for your hub/game
       FileName = "BloodR"
    },
-   KeySystem = true, -- Set this to true to use our key system
+   KeySystem = false, -- Set this to true to use our key system
    KeySettings = {
       Title = "BloodR  by x04000",
       Subtitle = "Key System",
